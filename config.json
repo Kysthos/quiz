@@ -1,0 +1,9 @@
+{
+  "CODE_FOLDER": "questions",
+  "RUN": {
+    ".js": ["node"],
+    ".py": ["python3"],
+    ".sh": ["/bin/sh"]
+  },
+  "STORE": "user-answers/answers.json"
+}

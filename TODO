@@ -1,0 +1,7 @@
+1) comparing method is horrible and very problematic, not sure if this is even the way to go... afraid not
+2) extract strings to a separate file
+3) refactor the question class to allow different error finding strategies
+4) tidy up the code
+5) ERROR CHECKS
+6) more questions
+7) allow more customization

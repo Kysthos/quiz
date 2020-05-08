@@ -1,0 +1,1 @@
+A project in progress; made for fun, just to have a place to store some code snippets. Just started, so not much questions yet. But the comparing method might be a problem.
